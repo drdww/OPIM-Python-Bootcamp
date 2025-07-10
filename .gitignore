@@ -1,0 +1,4 @@
+# 	Ignore files like .DS_Store, .ipynb_checkpoints/, etc.
+.ipynb_checkpoints/
+__pycache__/
+*.DS_Store
